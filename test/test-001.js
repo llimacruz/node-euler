@@ -8,5 +8,5 @@ it('Menor que 10', () => {
 
 it('Menor que 1000', () => {
   const sum = findSum(1000);
-  assert.equal(sum, 23);
+  assert.equal(sum, 233168);
 });
